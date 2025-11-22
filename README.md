@@ -45,8 +45,19 @@ A Streamlit interface allows users to upload a PDF, view extracted data, and dow
 pip install -r requirements.txt
 
 #Run the UI:
-streamlit run streamlit_UI.py
+streamlit run streamlit_UI.
 
+🧪 Future Improvements:
 
-## 📁 Project Structure
+Add NLP-based semantic enhancement
 
+Add support for multiple resume formats
+
+Export to CSV / JSON / Database
+
+Add OCR support for scanned PDFs
+
+🧑‍💻 Author
+
+Adarsh Baghel
+📬 Email: adarshreigns76626@gmail.com
